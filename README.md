@@ -1,3 +1,3 @@
 # talk  clone
 
-css got so buch better
+html & css are so much fun!
